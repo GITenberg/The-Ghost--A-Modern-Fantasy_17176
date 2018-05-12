@@ -1,0 +1,38 @@
+_repo: The-Ghost--A-Modern-Fantasy_17176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: First published in 1907, The Ghost was the first of many ""fantasias
+  on modern times"" written by Arnold Bennett. These illustrated his ability to produce
+  not only realistic novels, perfected in his portrayals of provincial English life
+  set in the Staffordshire scenery of his childhood, but also more sensational stories,
+  written after his move to London where he developed a far more cosmopolitan interest.
+  A supernatural story, The Ghost tells the tale of a beautiful opera star, Rosetta
+  Rosa, whose beauty seems to cast a spell upon all those who meet her. When Carl
+  Foster, a young d.
+gutenberg_issued: '2005-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Women singers -- Fiction'
+- !lcsh 'Ghost stories'
+title: 'The Ghost: A Modern Fantasy'
+url: http://www.gutenberg.org/ebooks/17176
